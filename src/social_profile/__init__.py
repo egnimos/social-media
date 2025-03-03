@@ -1,0 +1,1 @@
+default_app_config = 'social_profile.apps.SocialProfileConfig'
